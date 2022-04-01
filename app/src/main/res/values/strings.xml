@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app mate</string>
+    <string name="not_registered_create_account">Not Registered?  <u>Create Account</u></string>
+    <string name="get_started">get started</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+</resources>
